@@ -22,9 +22,9 @@ const authors = [
 ];
 const posts = [
   { id: 1, authorId: 1, title: 'Introduction to GraphQL', votes: 2 },
-  { id: 2, authorId: 2, title: 'Welcome to Meteor', votes: 3 },
-  { id: 3, authorId: 2, title: 'Advanced GraphQL', votes: 1 },
-  { id: 4, authorId: 3, title: 'Launchpad is Cool', votes: 7 },
+  { id: 5, authorId: 2, title: 'Welcome to Meteor', votes: 3 },
+  { id: 32, authorId: 2, title: 'Advanced GraphQL', votes: 1 },
+  { id: 40191, authorId: 3, title: 'Launchpad is Cool', votes: 7 },
 ];
 
 const typeDefs = `
